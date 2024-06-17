@@ -1,3 +1,5 @@
+auto _ = [](){ std::ios_base::sync_with_stdio(false); std::cin.tie(nullptr); return 0; }();
+
 #include <bits/stdc++.h>
 using namespace std;
 
